@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am currently working on `murphy` a multiresolution computational framework for 3D PDE simulation.
+Wanna collaborate, please reach out!
+
 <!--
 **thomasgillis/thomasgillis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
