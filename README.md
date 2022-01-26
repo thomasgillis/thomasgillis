@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am a computational scientist currently working at MIT.
-My research focuses on computational frameworks for PDE simualtions.
+I am a computational scientist currently working at MIT and UCLouvain.
+My research focuses on computational frameworks for PDE simulations.
 
 More precisely,
 - with other researchers we are developing [`murphy`](https://github.com/vanreeslab/murphy) a multiresolution computational framework for 3D PDE simulation.
