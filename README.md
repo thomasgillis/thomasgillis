@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I am a computational scientist currently working at MIT and UCLouvain.
-My research focuses on computational frameworks for PDE simulations.
+I am a computational scientist currently based at Argonne National Lab.
+My research focuses on computational frameworks for PDE simulations and distributed computing.
 
 More precisely,
-- with other researchers we are developing [`murphy`](https://github.com/vanreeslab/murphy) a multiresolution computational framework for 3D PDE simulation.
-- we particularly focus on scalability, portability, and maintainability of the code
+- I have joined the [`mpich` team](https://github.com/pmodels) to help shaping the future of distributed computing
+- With other researchers from MIT and UCLouvain we have developed [`murphy`](https://github.com/vanreeslab/murphy) a multiresolution computational framework for 3D PDE simulation with a particular focus on scalability, portability, and maintainability of the code.
+- I am also one of the main developer of [`flups`](https://github.com/vortexlab-uclouvain/flups) a distributed FFT code for the unbounded Poisson equation.
 
 
 #### misc facts
